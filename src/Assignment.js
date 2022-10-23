@@ -33,7 +33,7 @@ const Assignment = () => {
     //     break;
     // }
 
-    const marks = 65;
+    const marks = 75;
     if (marks >= 75) {
       console.log('A');
     } else if (marks >= 65) {
